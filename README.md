@@ -1,7 +1,5 @@
 # StayCatin Business Dashboard (Tableau Project)
 
-![Dashboard Preview](Dashboard.png)
-
 ## Interactive Dashboard
 View the live interactive dashboard here:
 https://public.tableau.com/app/profile/ro.shakwa/viz/StayCatinAnalysis_17703965800110/StayCatin_Business_Dashboard
